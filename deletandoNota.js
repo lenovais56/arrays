@@ -1,6 +1,5 @@
-const notas = [10, 6, 8];
-notas.push(7);
-// se deixarmos o .push() vazio o console retornara NaN
+const notas =[10, 7, 8, 5, 10];
+notas.pop();
 
 console.log(notas);
 
