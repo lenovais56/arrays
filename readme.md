@@ -3,7 +3,7 @@
 ## 🔨 Principais aprendizados
 
 - `1`: Criar e utlizar array com elementos (numbers e strings)
-- `2`: Utilizar métodos de array do JS (ex.: .push(), .pop() )
+- `2`: Utilizar métodos de array do JS (ex.: .push(), .pop(), .filter(), .find() )
 - `3`: 
 - `4`:
 - `5`:
