@@ -6,7 +6,7 @@
 - `2`: Utilizando métodos de array do JS ( .push(), .pop(), .filter(), .find(), .slice(), .splice(), .concact(), .includes(), .indexOf())
 - `3`: Trabalhando com listas com 2 dimensões
 - `4`: Desestruturando uma lista
-- `5`:
+- `5`: Utilizando for clássico e for of
 
 ## ✔️ Tecnologias utilizadas
 
